@@ -13,7 +13,7 @@ The objective of this project is to build a model that can automatically detect 
 - Evaluate the model's performance using relevant metrics.
 
 ## Dataset
-- Source: IMDb Movie Review Dataset
+- Source: IMDb Movie Review Dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - Total Samples: 50,000
 - Train/Test Split: 25,000 for training and 25,000 for testing
 - Sentiment Classes: Binary (Positive and Negative)
